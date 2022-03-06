@@ -1,1 +1,3 @@
 # Credit_Risk_Analysis
+## Overview
+Using a credit card dataset from LendingClub, we will be applying different machine learning algorithms to give predictions on classifying a client as being a high-risk or low-risk loan. Because this dataset contains unbalanced classifications, we will evaluate which of these models performs best by looking at their confusion matrices and balanced accuracy scores. 
