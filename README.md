@@ -35,7 +35,7 @@ We will assess two Ensemble classifiers to see whether they more accurately pred
 
 ![easy_ensemble.png](https://github.com/rptseng/Credit_Risk_Analysis/blob/main/images/easy_ensemble.png)
 
-The Random Forest model produces an accuracy score of 79%, while the Easy Ensemble Ada Boost Classifier produces an accuracy score of 91%. This would suggest the best model for predicting credit risk is the Easy Ensemble Ada Boost Classifier.
+The Random Forest model produces an accuracy score of 78%, while the Easy Ensemble Ada Boost Classifier produces an accuracy score of 91%. This would suggest the best model for predicting credit risk is the Easy Ensemble Ada Boost Classifier.
 
 ## Summary
 Summary of the accuracy results:
@@ -45,7 +45,7 @@ Summary of the accuracy results:
     - SMOTE - 60%
     - ClusterCentroid Undersampling - 52%
     - SMOTEENN - 63%
-- Balanced Random Forest - 79%
+- Balanced Random Forest - 78%
 - Ensemble Ada Boost - 91%
 
 The recommended model for predicting credit risk is the Ensemble Ada Boost Classifier. It tested with 91% accuracy with an F-score of 0.97, meaning there is no large difference between precision and recall within this model.
